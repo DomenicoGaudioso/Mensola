@@ -2,7 +2,8 @@
 
 Questa repository contiene un'applicazione web interattiva per l'analisi strutturale e sismica di una pila da ponte. L'app unisce un'interfaccia utente intuitiva basata su **Streamlit** con la potenza di calcolo del motore agli elementi finiti **OpenSeesPy**.
 
-![Rappresentazione del Modello](inserisci_qui_il_link_alla_tua_immagine.png)
+![Rappresentazione del Modello](Gemini_Generated_Image_ugw81augw81augw8.png)
+
 
 ## 📖 Descrizione Teorica
 
