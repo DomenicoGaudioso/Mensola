@@ -10,7 +10,7 @@ Questa repository contiene un'applicazione web interattiva per l'analisi struttu
 L'applicazione modella il comportamento trasversale di una pila da ponte schematizzandola come una **mensola incastrata alla base con una massa concentrata in sommità** (modello a un grado di libertà o *Lollipop model*, in linea con i concetti classici della dinamica delle strutture trattati da autori come il Prof. Petrangeli).
 
 La pila viene discretizzata in 30 elementi finiti lungo la sua altezza, permettendo di estrarre e plottare in modo accurato l'inviluppo delle sollecitazioni (Taglio e Momento Flettente).
-
+![Rappresentazione del Modello](Gemini_Generated_Image_o757zo757zo757zo.png)
 ## ✨ Funzionalità
 
 * **Gestione Sezioni Avanzata:** Supporto per pile a sezione costante, a tratti (sezioni multiple lungo l'altezza gestibili tramite tabella interattiva) o a sezione variabile (rastremata con interpolazione lineare).
